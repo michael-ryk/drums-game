@@ -14,7 +14,7 @@ h1 {
 
 .container {
   display: grid;
-  grid-template-columns: 400px 400px;
+  grid-template-columns: 700px 400px;
   justify-content: center;
 }
 
@@ -24,6 +24,14 @@ h1 {
 
 .kick {
   background-image: url(images/bass.jpg);
+}
+
+.low-tom {
+  background-image: url(images/tom-low.jpg);
+}
+
+.high-tom {
+  background-image: url(images/tom1.jpg);
 }
 
 .crash {

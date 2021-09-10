@@ -71,11 +71,11 @@ function detectKeyPress (key){
                 sound.play();
             break; 
         case "c":
-                var sound = new Audio("sounds/high=tom1.mp3");
+                var sound = new Audio("sounds/high-tom1.mp3");
                 sound.play();
             break; 
         case "v":
-                var sound = new Audio("sounds/high=tom1.mp3");
+                var sound = new Audio("sounds/high-tom1.mp3");
                 sound.play();
             break; 
         default: 
